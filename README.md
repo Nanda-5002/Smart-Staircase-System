@@ -9,4 +9,8 @@ A motion-detected smart staircase lighting system using Arduino, IR sensors, and
 
 ## Project Image
 
-![Project](https://github.com/your-username/your-repo-name/blob/main/project%20image.jfif?raw=true)
+![Project](https://raw.githubusercontent.com/Nanda-5002/Smart-Staircase-System/refs/heads/main/project%20image.jfif)
+
+
+## Demo Video
+[Click here to watch the video](https://drive.google.com/your-shared-link)
